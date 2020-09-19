@@ -579,14 +579,16 @@ a:focus, a:hover {
 }
 
 .navbar-brand {
+  margin: 0;
+  width: 100%;
   height: auto;
   padding: 8px;
-  width: 100%;
+
 }
 
-.navbar-brand h1 {
-  margin: 0;
-}
+/*.navbar-brand h1 {
+  
+}*/
 
 .hero-area {
   padding: 150px 0;
