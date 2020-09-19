@@ -1,9 +1,8 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About the guy
+description: This is meta description
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+Hi, I'm Joe Tomasko, Jr. and I'm an artist who likes finding and learning new things.  A website seems like just the thing to learn about.   I draw, write, and engineer.  
+
+Trying to find a new way to show people about me, and this just might be it.  
