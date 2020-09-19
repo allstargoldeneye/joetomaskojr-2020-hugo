@@ -1,0 +1,11 @@
+---
+label: Artwork Display
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: title of the artwork
+  hidden: false
