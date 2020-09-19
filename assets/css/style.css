@@ -475,6 +475,7 @@ a:focus, a:hover {
 .navigation {
   transition: .3s all;
   background: #001A52;
+  max-height: 140px;
 }
 
 .top-bar {
