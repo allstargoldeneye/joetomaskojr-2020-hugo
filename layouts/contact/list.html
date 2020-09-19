@@ -1,17 +1,7 @@
 {{ define "main" }}
 
-<article class="page type-page status-publish hentry">
-  <header class="entry-header has-text-align-center header-footer-group">
-    <div class="entry-header-inner section-inner medium">
-      <h1 class="entry-title">{{ .Title }}</h1>
-    </div>
-  </header>
+{{ partial "page-title" . }}
 
-  <div class="post-inner thin">
-    <div class="entry-content">
-      {{ .Content }}
-    </div>
-  </div>
-</article>
+{{ partial "contact.html" . }}
 
 {{ end }}
