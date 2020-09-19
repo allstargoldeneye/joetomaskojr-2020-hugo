@@ -580,7 +580,8 @@ a:focus, a:hover {
 
 .navbar-brand {
   height: auto;
-  padding: 8px 0;
+  padding: 8px;
+  width: 100%;
 }
 
 .navbar-brand h1 {
@@ -599,7 +600,7 @@ a:focus, a:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #1f2532;
+  background: var(--orange-fury);
 }
 
 @media (max-width: 480px) {
