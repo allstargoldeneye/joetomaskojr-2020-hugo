@@ -581,10 +581,7 @@ a:focus, a:hover {
 
 .navbar-brand {
   margin: 0;
-  width: 100%;
-  height: auto;
   padding: 8px;
-
 }
 
 /*.navbar-brand h1 {
