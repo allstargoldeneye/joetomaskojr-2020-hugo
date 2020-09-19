@@ -490,7 +490,6 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li.active a {
   color: var(--orange-fury);
-  max-height: 140px;
 }
 
 .navigation .navbar-nav > li > a {
@@ -522,8 +521,7 @@ a:focus, a:hover {
   color: var(--orange-fury);
   font-size: 30px;
   cursor: pointer;
-  outline: none;
-  
+  outline: none; 
 }
 
 .navbar-toggler {
