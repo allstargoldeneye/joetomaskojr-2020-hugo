@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
+
+:root {
+	--orange-fury: #fd5d00;
+}	
+
 body {
   line-height: 1.4;
   font-family: "Titillium Web", sans-serif;
@@ -468,7 +473,7 @@ a:focus, a:hover {
 
 .navigation {
   transition: .3s all;
-  background: #1f2532;
+  background: #001A52;
 }
 
 .top-bar {
@@ -483,11 +488,11 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-nav > li.active a {
-  color: #fff;
+  color: var(--orange-fury);
 }
 
 .navigation .navbar-nav > li > a {
-  color: #707d8f;
+  color: var(--orange-fury);
   font-size: 15px;
   line-height: 26px;
   padding: 20px 15px !important;
@@ -511,11 +516,22 @@ a:focus, a:hover {
   color: #f0326b;
 }
 
-.navigation .navbar-toggler {
-  color: #fff;
+.navigation {
+  color: var(--orange-fury);
   font-size: 30px;
   cursor: pointer;
   outline: none;
+  
+}
+
+.navbar-toggler {
+  color: var(--orange-fury);
+  font-size: 30px;
+  cursor: pointer;
+  outline: none;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
 
 .navigation .nav .open > a {
