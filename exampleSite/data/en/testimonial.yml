@@ -1,25 +1,24 @@
 enable : true
 item    :
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      01001010 01101111 01100101 00100000 01101001 01110011 00100000 01100001 00100000 01100011 01101111 01101111 01101100 00100000 01100111 01110101 01111001 00101110
     clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Matt Cutts
-    clientDesignation: CEO , Company Name
+    clientName  : Vision, from Marvel Comics
+    clientDesignation: An Avenger
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      He didn't respond to my texts after one day!  What a horribly wonderful human being.
     clientThumb : images/client-logo/clients-2.jpg
     clientName  : Elon Mask
     clientDesignation: CEO , Company Name
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      raawwwrrrrr raaarw rawrrrrrrrr rawwwrrr 
     clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Matt Cutts
-    clientDesignation: CEO , Company Name
+    clientName  : velociraptor
+    clientDesignation: Rep. of Jurassic Park
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : Elon Mask
-    clientDesignation: CEO , Company Name
+      Joe Tomasko Jr. is a one of a kind artist that blends electronic pen and tablet with creativity I can only assume is completely devine in nature. My only concern is that I will only become so in need of his talent that I will either run out of money or space in my home for his works (not sure which may come first). If you are truly blessed you will be gifted one of his infamous drawings that he creates without his hands (if you know what I mean). All in all this up and coming creator - more the "THE CREATOR" - is someone that you need to have a piece of art from on each wall of every room in your homeclientThumb : images/client-logo/clients-2.jpg
+    clientName  : Elon Tusk
+    clientDesignation: CEO , Chungus Industries
